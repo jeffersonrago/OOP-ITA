@@ -1,4 +1,4 @@
-package com.br.jsr.coursera.ita.oop.handson.contrutoresdiferentes;
+package com.br.jsr.coursera.ita.oop.s1.handson.contrutoresdiferentes;
 
 import org.junit.Assert;
 import org.junit.Test;

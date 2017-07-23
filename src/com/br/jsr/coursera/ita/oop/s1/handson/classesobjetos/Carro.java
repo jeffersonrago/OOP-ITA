@@ -1,4 +1,4 @@
-package com.br.jsr.coursera.ita.oop.handson.classesobjetos;
+package com.br.jsr.coursera.ita.oop.s1.handson.classesobjetos;
 
 public  class Carro {
 	int potencia;
@@ -18,7 +18,7 @@ public  class Carro {
 	}
 
 	void imprimir() {
-		System.out.println("O carro "+nome+" está a velocidade "+getVelocidade()+" km/h");
+		System.out.println("O carro "+nome+" estï¿½ a velocidade "+getVelocidade()+" km/h");
 	}
 	
 }

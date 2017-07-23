@@ -1,4 +1,4 @@
-package com.br.jsr.coursera.ita.oop.handson.classesobjetos;
+package com.br.jsr.coursera.ita.oop.s1.handson.classesobjetos;
 
 public class Principal {
 	public static void main(String[] args) {

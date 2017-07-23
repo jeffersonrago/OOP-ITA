@@ -1,4 +1,4 @@
-package com.br.jsr.coursera.ita.oop.handson.contrutoresdiferentes;
+package com.br.jsr.coursera.ita.oop.s1.handson.contrutoresdiferentes;
 
 public class Compra {
 	
